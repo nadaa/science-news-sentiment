@@ -1,0 +1,11 @@
+streamlit
+requests
+stqdm
+textblob
+urllib3
+nltk
+beautifulsoup4
+seaborn
+plotly
+plotly-express
+wordcloud
