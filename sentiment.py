@@ -1,4 +1,5 @@
 import pandas as pd
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from textblob import TextBlob
